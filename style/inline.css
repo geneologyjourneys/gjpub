@@ -268,12 +268,12 @@ a[role="button"] {
 .bg-splash {
     grid-area: splash;
     grid-row-start: 2;
-    background-image: url("../content/pexels-heinz-klier-8457162.jpg");
+    background-image: url("../content/pexels-domen-mirtic-dolenec-3494648.png");
     height: 54vh;
     min-height: 20rem;
     max-height: 54vh;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom center;
     opacity: 1;
     background-size: cover;
     opacity: 0.65;
